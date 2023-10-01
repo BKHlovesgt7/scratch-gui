@@ -1,0 +1,4 @@
+# Build for github.io
+npm run build
+# Commit and push the build result to your gh-pages branch
+npm run deploy
